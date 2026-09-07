@@ -1,0 +1,38 @@
+[window]
+opacity = 0.85
+
+[font]
+size = 15
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+blink_interval = 1000
+[colors.cursor]
+cursor = "#f6f6f6"
+
+# cyberdream theme
+[[colors.indexed_colors]]
+color = "#ffbd5e"
+index = 16
+[[colors.indexed_colors]]
+color = "#ff6e5e"
+index = 17
+[colors.normal]
+black = "#16181a"
+blue = "#5ea1ff"
+cyan = "#5ef1ff"
+green = "#5eff6c"
+magenta = "#bd5eff"
+red = "#ff6e5e"
+white = "#f8f7f3"
+yellow = "#f1ff5e"
+[colors.primary]
+background = "#16181a"
+foreground = "#f8f7f3"
+[colors.selection]
+background = "#3c4048"
+foreground = "#f8f7f3"
